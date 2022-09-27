@@ -1,5 +1,5 @@
 # DBDA_ETL_Project
-DATA EXTRACTION,DATA TRANSFORMATION,DATA PROCESSING  FOR BIGDATA USING SPRAK.
+DATA EXTRACTION,DATA TRANSFORMATION,DATA PROCESSING AND DATA INGESTION FOR BIGDATA USING SPRAK.
 
  ETL, which stands for Extract, Transform, and Load, is the process data engineers use to extract data from different sources in different formats.
 transform the data into a usable and trusted resource, and load that data into the systems end-users can access and use downstream to solve business problems.
